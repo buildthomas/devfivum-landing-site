@@ -59,11 +59,10 @@ body {
 }
 
 .hero-logo {
-  width: 96px;
-  height: 96px;
-  border-radius: 22px;
+  width: 112px;
+  height: 112px;
   margin-bottom: 1.75rem;
-  box-shadow: 0 0 48px var(--purple-glow);
+  filter: drop-shadow(0 0 24px rgba(128, 128, 255, 0.5));
 }
 
 .hero h1 {
