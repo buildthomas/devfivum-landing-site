@@ -3,10 +3,10 @@
    =========================== */
 
 :root {
-  --purple:        #7c3aed;
-  --purple-light:  #a78bfa;
-  --purple-dark:   #5b21b6;
-  --purple-glow:   rgba(124, 58, 237, 0.25);
+  --purple:        #8080ff;
+  --purple-light:  #a8a8ff;
+  --purple-dark:   #6060cc;
+  --purple-glow:   rgba(128, 128, 255, 0.25);
   --bg:            #0f0f13;
   --bg-card:       #18181f;
   --bg-card-hover: #1e1e28;
@@ -68,7 +68,7 @@ body {
 
 .hero h1 {
   font-size: clamp(2.5rem, 6vw, 4rem);
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: -0.03em;
   color: var(--white);
   margin-bottom: 0.5rem;
@@ -138,7 +138,7 @@ body {
 
 .section h2 {
   font-size: clamp(1.6rem, 4vw, 2.2rem);
-  font-weight: 800;
+  font-weight: 600;
   color: var(--white);
   letter-spacing: -0.02em;
   margin-bottom: 1rem;
@@ -243,7 +243,7 @@ body {
 
 .cta h2 {
   font-size: clamp(1.6rem, 4vw, 2.4rem);
-  font-weight: 800;
+  font-weight: 600;
   color: var(--white);
   letter-spacing: -0.02em;
   margin-bottom: 0.75rem;
