@@ -1,6 +1,6 @@
 title: DevFivum
 description: A community-run Discord server for Roblox developers to chat, collaborate, and grow.
-baseurl: ""
+baseurl: "/devfivum-landing-site"  # change back to "" once custom domain DNS is live
 url: "https://devforum.community"
 
 # Discord application link — replace with your current link
