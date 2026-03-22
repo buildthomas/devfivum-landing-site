@@ -1,0 +1,19 @@
+title: DevFivum
+description: A community-run Discord server for Roblox developers to chat, collaborate, and grow.
+baseurl: ""
+url: "https://devforum.community"
+
+# Discord application link — replace with your current link
+discord_apply_url: "https://discord.gg/GzcHE6Hzfb"
+
+# Appearance
+tagline: "A curated community for professional Roblox developers."
+
+# Jekyll settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
